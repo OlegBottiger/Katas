@@ -1,6 +1,6 @@
-/*
-  Particulary clever and clean solution from Codewars.
-*/
+/**
+ * Particulary clever and clean solution from Codewars.
+ */
 
 function XO(str) {
   let x = str.match(/x/gi);
